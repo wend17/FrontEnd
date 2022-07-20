@@ -1,0 +1,35 @@
+ /*
+* {
+   para todos los elementos de html
+    margin: 0;
+    padding: 0;
+}*/
+
+#titulo_principal{
+    color: rgb(228, 11, 11);
+    text-align: center;
+    margin: 60px;
+}
+
+h2 {
+    color: green;
+}
+
+/*Clase de Css*/
+.tarjeta1 {
+    border: 20px solid mediumorchid;
+    background-color: aquamarine;
+    text-align: center;
+    margin: 20px;
+}
+
+.tarjeta2 {
+    border: 20px solid rgb(100, 85, 211);
+    background-color: rgb(195, 212, 185);
+    text-align: center;
+    margin: 20px;
+
+}
+.titulo{
+    color:red;
+}

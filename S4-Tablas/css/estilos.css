@@ -1,0 +1,32 @@
+table{
+    width: 100%;
+}
+caption{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    line-height:70px ;
+}
+table,th,td{
+    border:1px solid rgb(51, 0, 255);
+    padding: 15px;
+    border-collapse: collapse;
+    /*border-spacing: 50px;*/ 
+}
+th{
+    text-align: center;
+    color: bisque;
+    background-color: rgb(61, 43, 226);
+}
+td{
+    text-align:left ;
+}
+
+tr:nth-child(odd){
+    background-color: aquamarine;
+}
+
+tr:nth-child(even){
+    background-color:beige;
+}
+

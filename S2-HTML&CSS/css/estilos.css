@@ -1,0 +1,18 @@
+h1{
+    color:Navy;
+    text-align: center;
+}
+p{
+    
+    color: white;
+    background-color: crimson;
+    padding: 30px;
+    border: 10px solid powderblue;
+   /* margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    margin: 10px 30px 30px 40px; */
+    margin:auto 100px;
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+.titulo{
+    color:royalblue;
+    text-align: center;
+}
+.marco{
+    width: 100%;
+    height: 200px;
+    border: 1px solid salmon;
+}
+.centrar{
+   text-align: center; 
+}
+.boton{
+    background-color: aliceblue;
+    border: 2px solid blueviolet;
+    text-decoration: none;
+    display: inline-block; /*averiguar*/
+    padding: 10px;
+}
+.boton:hover{
+    background-color:green ;
+    color: aliceblue;
+}
